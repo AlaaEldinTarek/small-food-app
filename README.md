@@ -1,2 +1,2 @@
-# small-food-app
+# FoodApp
  
